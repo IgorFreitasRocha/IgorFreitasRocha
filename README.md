@@ -19,7 +19,7 @@
   <img align="center" alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div> <br/>
 
-### Experiência com:
+### Experiences with:
 <div>
     <img align="center" alt="DataBricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
     <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
