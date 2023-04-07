@@ -3,9 +3,9 @@
 - 🍲 I’m currently working at [@iFood](https://www.linkedin.com/company/ifood-/)
 - 🐶 And giving all the love to my dogs
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfreitasrocha&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfreitasrocha&layout=compact&theme=dracula)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfreitasrocha&show_icons=true&theme=dracula) -->
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfreitasrocha&show_icons=true&theme=dracula)
 
 ### Skills *(Keep Learning)*:
 
