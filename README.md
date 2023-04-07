@@ -3,9 +3,9 @@
 - 🍲 I’m currently working at [@iFood](https://www.linkedin.com/company/ifood-/)
 - 🐶 And giving all the love to my dogs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfreitasrocha&layout=compact&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfreitasrocha&layout=compact&theme=dracula)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfreitasrocha&show_icons=true&theme=dracula)
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfreitasrocha&show_icons=true&theme=dracula) -->
 
 ### Skills *(Keep Learning)*:
 
@@ -17,7 +17,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
   <img align="center" alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div> <br/>
+</div>
 
 ### Experiences with:
 <div>
