@@ -1,5 +1,5 @@
-# Hi, I'm Igor🧙‍♂️
-- 🧑🏻‍💻 Programming student
+
+Hi I'm Igor, Front End student from São Paulo, Brasil.
 - 🍲 I’m currently working at [@iFood](https://www.linkedin.com/company/ifood-/)
 
 ### Contact
